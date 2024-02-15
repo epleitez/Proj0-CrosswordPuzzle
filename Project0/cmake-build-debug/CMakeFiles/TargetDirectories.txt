@@ -1,0 +1,3 @@
+/Users/emelypleitez/CLionProjects/Spring CMSC 341/Project0/cmake-build-debug/CMakeFiles/Project0.dir
+/Users/emelypleitez/CLionProjects/Spring CMSC 341/Project0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emelypleitez/CLionProjects/Spring CMSC 341/Project0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
